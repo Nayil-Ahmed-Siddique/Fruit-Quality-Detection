@@ -17,13 +17,13 @@ Fruit-Quality-Detection/ <br>
 ├── dataset/                # Dataset folder <br>
 │   ├── train/              # Training data <br>
 │   │   ├── fresh/          # Fresh fruit images <br>
-│   │   ├── rotten/         # Rotten fruit images
-│   ├── test/               # Testing data
-│       ├── fresh/          # Fresh fruit images
-│       ├── rotten/         # Rotten fruit images
-├── fruit_quality_model.h5  # Saved CNN model
-├── fruit_quality_detection.ipynb # Jupyter notebook with code
-├── requirements.txt        # Python dependencies
+│   │   ├── rotten/         # Rotten fruit images <br>
+│   ├── test/               # Testing data <br>
+│       ├── fresh/          # Fresh fruit images <br>
+│       ├── rotten/         # Rotten fruit images <br>
+├── fruit_quality_model.h5  # Saved CNN model <br>
+├── fruit_quality_detection.ipynb # Jupyter notebook with code <br>
+├── requirements.txt        # Python dependencies <br>
 └── README.md               # Project documentation <br>
 
 
