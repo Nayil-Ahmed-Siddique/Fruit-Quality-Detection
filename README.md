@@ -13,7 +13,7 @@ The solution uses:
 Convolutional Neural Networks (CNN) for feature extraction and classification.
 A user-friendly approach to input test images and evaluate predictions.
 
-
+<br>
 Fruit-Quality-Detection/
 ├── dataset/                # Dataset folder
 │   ├── train/              # Training data
@@ -26,7 +26,7 @@ Fruit-Quality-Detection/
 ├── fruit_quality_detection.ipynb # Jupyter notebook with code
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
-
+<br>
 ✨ Features
 Dataset Preparation: Preprocessed images of apples and bananas (150x150 resolution) into train and test folders.
 
