@@ -25,8 +25,9 @@ Fruit-Quality-Detection/
 ├── fruit_quality_model.h5  # Saved CNN model
 ├── fruit_quality_detection.ipynb # Jupyter notebook with code
 ├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
-<br>
+└── README.md               # Project documentation <br>
+
+
 ✨ Features
 Dataset Preparation: Preprocessed images of apples and bananas (150x150 resolution) into train and test folders.
 
