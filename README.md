@@ -13,11 +13,10 @@ The solution uses:
 Convolutional Neural Networks (CNN) for feature extraction and classification.
 A user-friendly approach to input test images and evaluate predictions.
 
-<br>
-Fruit-Quality-Detection/
-├── dataset/                # Dataset folder
-│   ├── train/              # Training data
-│   │   ├── fresh/          # Fresh fruit images
+Fruit-Quality-Detection/ <br>
+├── dataset/                # Dataset folder <br>
+│   ├── train/              # Training data <br>
+│   │   ├── fresh/          # Fresh fruit images <br>
 │   │   ├── rotten/         # Rotten fruit images
 │   ├── test/               # Testing data
 │       ├── fresh/          # Fresh fruit images
