@@ -13,6 +13,8 @@ The solution uses:
 Convolutional Neural Networks (CNN) for feature extraction and classification.
 A user-friendly approach to input test images and evaluate predictions.
 
+DataSet: [https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification] <br>
+
 Fruit-Quality-Detection/ <br>
 ├── dataset/                # Dataset folder <br>
 │   ├── train/              # Training data <br>
