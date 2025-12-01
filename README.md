@@ -1,7 +1,5 @@
 # Fruit-Quality-Detection
 
-Here's a well-structured and detailed README.md for your "Fruit Quality Detection" project. You can copy and paste it directly to your GitHub repository. If you want to customize it further, let me know!
-
 🍎 Fruit Quality Detection using CNN
 A deep learning project to classify fruit quality as fresh or rotten using a Convolutional Neural Network (CNN). This project processes images of apples and bananas to determine their quality, enabling automated quality detection through a trained model.
 
